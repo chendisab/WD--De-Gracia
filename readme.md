@@ -60,17 +60,17 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-showcasing distinctive designs
-- Whats the purpose
-to demonstrate creativity in web design
+ What is the project
+- The project is a website featuring 5 different hero designs, each represented by a static card and an animated card. These designs are unique in their visual presentation and animation styles, showcasing various fictional heroes or characters.
+Whats the purpose
+- The purpose of the website is to highlight creativity in design and animation.
 - What are key components
 landing page
 clear title
 sub title
 descriptions
-- What technology used and how it is used
-html and css
+What technology used and how it is used
+- HTML and CSS only. It serves as a showcase of skills in web development, particularly in creating visually appealing and interactive elements solely through front-end technologies.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
