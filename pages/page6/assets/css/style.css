@@ -87,7 +87,7 @@ h3 {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('../../../../assets/img/hero1card-bg.jpg');
+    background-image: url('https://i.pinimg.com/564x/d3/a8/85/d3a8852ae303afa237a3faab44163c80.jpg');
     background-size: cover;
     background-position: center;
     z-index: -1;
@@ -109,7 +109,7 @@ h3 {
 .hero1-pfp img {
     margin-top: 70px;
     margin-bottom: 20px;
-    width: 310px;
+    width: 3100px;
     height: auto;
 }
 
@@ -152,7 +152,7 @@ h3 {
 
 .hero1-heart img{
     margin-top: 10px;
-    width: 30px;
+    width: 300px;
 }
 
 
@@ -174,7 +174,7 @@ h3 {
     background-image: url('../../../../assets/img/hero2-bg.jpg');
     background-size: cover;
     background-position: center;
-    z-index: -1;
+    z-index: 10;
 }
 
 .hero2-card {

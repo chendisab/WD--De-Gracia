@@ -5,7 +5,7 @@
 
 .header {
     width: 100%;
-    background-color: rgb(221, 171, 171);
+    background-color: rgb(243, 126, 198);
     padding: 10px 0;
     box-shadow: none;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -24,7 +24,7 @@
 }
 
 .header nav a:hover {
-    color: #ffcccb;
+    color: #df5fb7;
 }
 
 body {
@@ -54,14 +54,14 @@ body {
     font-size: 58px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-bottom: 10px;
-    color: #e57883;
+    color: #e85097;
 }
 
 .subtitle {
     font-size: 24px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-bottom: 20px;
-    color: #b86e76;
+    color: #dc328c;
 }
 
 .description {
@@ -78,7 +78,7 @@ body {
 }
 
 .btn {
-    background-color: #e29fa9;
+    background-color: #e02440;
     color: white;
     padding: 15px 30px;
     text-decoration: none;
